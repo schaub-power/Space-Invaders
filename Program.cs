@@ -30,7 +30,7 @@ class Program
 
         try
         {
-            Console.SetWindowSize(width, height + 2); // Extra space for score
+            Console.SetWindowSize(width, height + 4); // Extra space for score
             Console.SetBufferSize(width, height + 2);
         }
         catch
