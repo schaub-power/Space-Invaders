@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacob\\source\\repos\\Space Invaders\\Space Invaders\\Space Invaders.csproj": {}
+    "C:\\Users\\jacob\\Source\\Repos\\Space-Invaders\\Space Invaders\\Space Invaders\\Space Invaders.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacob\\source\\repos\\Space Invaders\\Space Invaders\\Space Invaders.csproj": {
+    "C:\\Users\\jacob\\Source\\Repos\\Space-Invaders\\Space Invaders\\Space Invaders\\Space Invaders.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\Source\\Repos\\Space-Invaders\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
         "projectName": "Space Invaders",
-        "projectPath": "C:\\Users\\jacob\\source\\repos\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
+        "projectPath": "C:\\Users\\jacob\\Source\\Repos\\Space-Invaders\\Space Invaders\\Space Invaders\\Space Invaders.csproj",
         "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacob\\source\\repos\\Space Invaders\\Space Invaders\\obj\\",
+        "outputPath": "C:\\Users\\jacob\\Source\\Repos\\Space-Invaders\\Space Invaders\\Space Invaders\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
